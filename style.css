@@ -1,0 +1,72 @@
+*{
+    margin:0;
+}
+.First-section{
+    background: url(./beach2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.first-head{
+    background-color: rgba(27, 27, 50, 0.7);
+    border-radius: 10px;
+    padding:40px 10px;
+}
+
+.First-section h1{
+    color: rgb(252, 252, 252);
+    text-align: center;
+    font-size: 45px;
+   
+}
+.First-section p{
+    color: rgb(235, 235, 235);
+    text-align: center;
+    margin: auto;
+    width:60%;
+    font-size: 20px;
+   line-height: 1.5;
+   margin-top:20px;
+}
+.first-sec{
+    padding:30px;
+    font-size:20px;
+    line-height: 1.5;
+    background-color: rgba(48, 48, 78, 0.7);
+    text-align: justify;
+    color: white;
+
+}
+.second-sec{
+    padding:30px;
+    font-size:20px;
+    line-height: 1.5;
+    background-color:whitesmoke;
+    text-align: justify;
+    color: black;
+
+}
+.col-sm{
+    color:white;
+    background-color: rgba(48, 48, 78, 0.7);
+    padding:30px;
+    font-size:20px;
+    line-height: 1.5;
+    border:1px solid rgb(241, 234, 234);
+    text-align: justify;
+}
+.col-sm p{
+    width:70%;
+    margin: auto;
+}
+.col-sm1{
+    background-color: whitesmoke;
+   
+    text-align: justify;
+    color: black;
+}
